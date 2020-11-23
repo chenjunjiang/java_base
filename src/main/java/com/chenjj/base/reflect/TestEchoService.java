@@ -1,4 +1,4 @@
-package com.chenjj.java.reflect;
+package com.chenjj.base.reflect;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

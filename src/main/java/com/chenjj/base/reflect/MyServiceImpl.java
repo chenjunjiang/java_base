@@ -1,4 +1,4 @@
-package com.chenjj.java.reflect;
+package com.chenjj.base.reflect;
 
 /**
  * @author chenjj
