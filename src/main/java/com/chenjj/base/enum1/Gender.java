@@ -24,7 +24,12 @@ public enum Gender implements GenderDesc {
     };
     private final String name;
 
-    Gender(String name) {
+    /**
+     * 只能是私有的， private可以去掉
+     *
+     * @param name
+     */
+    private Gender(String name) {
         this.name = name;
     }
 
